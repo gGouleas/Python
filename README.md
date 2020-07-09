@@ -1,2 +1,2 @@
 # Python
- Small python exercises
+ Small scripts in Python
